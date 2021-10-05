@@ -29,13 +29,14 @@ _beschrijf welke pagina’s je wil maken, en met welke inhoud / functionaliteit;
 naam: Home pagina 
 beschrijving:
 
-Informatie van het berijf, Wij zijn we?, Over ons
+Informatie van het berijf, Wij zijn we?, Over ons ...
+Horizontaal bv de 3-5 nieuwste voertuigen toen
 
 ### PAGINA 2
 naam: ons aanbod
 beschrijving:
 
-de autos die ze in de aanbieding hebben met minimum info
+de autos die ze in de aanbieding hebben met minimum info: aantaal km, pk, jaar brandstof, soort versnellingsbak, aantal vorige eignaren
 
 ### PAGINA 3
 naam: 
