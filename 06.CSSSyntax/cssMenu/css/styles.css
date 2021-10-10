@@ -1,0 +1,64 @@
+#menu1 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    list-style: none;
+    padding: 10px
+}
+
+#menu1 a {
+    background-color: black;
+    color:white;
+    display: inline-block;
+    font-weight: normal;
+    letter-spacing: 2px;
+    margin:3px;
+    padding: 5px 5px;
+    text-decoration:none;
+    text-transform:uppercase;
+    transition: 0;
+}
+#menu1 :hover{
+    background-color:#74c593;
+    color:white;
+    display: inline-block;
+    font-weight: normal;
+    letter-spacing: 2px;
+    margin:3px;
+    padding: 5px 5px;
+    text-decoration:none;
+    text-transform: uppercase;
+    transition: 0;
+    
+}
+
+#menu2{
+
+    background-color:#dd2e1c;
+    border-bottom: 5px solid #e37e73;
+    list-style: none;
+    padding: 30px 5px;
+    display: flex;
+}
+
+#menu2 a{
+    color: white;
+    font-family:'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    letter-spacing: 3px;
+    line-height: 5px;
+    padding: 10px 10px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+#menu2 :hover{
+    color: white;
+    font-family:'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    letter-spacing: 3px;
+    line-height: 5px;
+    padding: 10px 10px;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
