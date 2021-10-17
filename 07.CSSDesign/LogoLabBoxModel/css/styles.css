@@ -1,0 +1,31 @@
+header{
+    padding: 0px 0px 100px 0px;
+}
+
+#einstein{
+    margin: 0px 0px -100px 0px;
+}
+
+ 
+#topbar ul{
+    margin: 20px 0;
+}
+
+#topbar li a, .button a {
+    padding: 5px 10px;
+}
+ 
+ #bestelnu, #ctatwitter, #ctafacebook {
+     margin-bottom: 10px;
+ }
+ 
+ #social li {
+     padding: 10px 0px 10px 90px;
+ }
+ 
+ .button a{
+     margin-top: 10px;
+     margin-bottom: 50px;
+ }
+
+

@@ -7,14 +7,14 @@ Link eerst de twee CSS bestanden in de map 'css' aan het HTML bestand. Werk nu d
 De gebruikte rode kleur in deze pagina is #B52025
 
 ## Deel 1: basisopmaak (75%)
-- het gebruikte lettertype is Roboto (gebruik een hosted webfont, b.v. Google Fonts)
+- het gebruikte lettertype is Roboto (gebruik een hosted webfont, b.v. Google Fonts) X
 - verberg de lijntjes onder de links
-- toon lijntjes onder de links van de content bij hover
-- voorzie een hover effect op het hoofdmenu
+- toon lijntjes onder de links van de content bij hover 
+- voorzie een hover effect op het hoofdmenu X
 - plaats de achtergrondafbeelding in de banner
 - maak de rand rond de banner dikker
 - maak de tekst onderaan in de banner wit met een zwarte achtergrond
-- maak de titels op: in hoofdletters, kleur #B52025, niet vet, 18px
+- maak de titels op: in hoofdletters, kleur #B52025, niet vet, 18px x
 - zet een rand rond de afbeeldingen in de content links
 - maak het tekstvak en de knop op rechts onder 'Newsletter' (achtergrondkleur input: #FDEAEB)
 - centreer de tekst in de footer
