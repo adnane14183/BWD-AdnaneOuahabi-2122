@@ -7,15 +7,48 @@
 
 /* GENERAL */
 /* ======= */
+body{
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
+li img{
+    max-width: 100%;
+}
+
+#gallery li img{
+width: 23%;
+display: flex;
+flex-wrap: wrap;
+}
 
 /* HEADER */
 /* ====== */
+header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
-
+nav ul{
+    display: flex;
+    padding-right: 20px;
+}
 /* MAIN */
 /* ====== */
+#content .left{
+    width: 65%;
+}
 
+#content .right{
+    width: 30%;
+}
+
+#content .left img{
+    width: 65%;
+    float: left;
+}
 
 /* CONTENT */
 /* ======= */
