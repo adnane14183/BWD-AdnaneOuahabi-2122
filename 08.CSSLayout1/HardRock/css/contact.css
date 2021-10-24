@@ -28,6 +28,13 @@ address {
 
 iframe {
    border: none;
+   width: 465px;
+}
+
+#bottom_content{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
 }
 
 /* form */
@@ -40,4 +47,26 @@ form label {
 form input {
    padding: 7px;
 }
+
+input[type=text] {
+   width: 400px;
+}
+input[type=email] {
+   width: 400px;
+}
+input[type=tel] {
+   width: 400px;
+   
+}
+input[type=date] {
+   width: 400px;
+   
+}
+input[type=time] {
+   width: 400px;
+   
+}
+
+ 
+
 
