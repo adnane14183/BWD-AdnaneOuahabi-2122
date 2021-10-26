@@ -55,7 +55,9 @@ header .wrapper {
 #tekstbanner{
    display: flex;
    justify-content: flex-end;
-   padding-right: 28px;
+   padding-right: 173px;
+   max-width: 30%;
+   float: right;
 }
 
 
