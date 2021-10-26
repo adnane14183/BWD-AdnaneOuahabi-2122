@@ -25,13 +25,13 @@ header .wrapper {
 }
 
 #home_ul li a {
-   color: #00FE06;
+   color: #67bc45;
    text-decoration: none;
 }
 
 #home_ul li a:hover{
    color: white;
-   background-color: #00FE06;
+   background-color: #67bc45;
 }
 #home_ul li a:hover{
    color: white;
@@ -162,4 +162,12 @@ padding-left: 5px;
 
 h3{
 color:darkcyan;
+}
+.active{
+   background-color: #67bc45;
+   color: white;
+}
+
+ #home_ul .active a {
+   color: white;
 }
