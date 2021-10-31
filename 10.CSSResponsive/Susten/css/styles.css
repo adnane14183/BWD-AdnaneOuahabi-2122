@@ -1,0 +1,176 @@
+img {
+   max-width: 100%;
+}
+
+.wrapper {
+   max-width: 960px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+header .wrapper {
+   padding: 30px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+#home_ul {
+   display: flex;
+   list-style: none;
+}
+
+#home_ul li {
+   padding-left: 15px;
+}
+
+#home_ul li a {
+   color: #67bc45;
+   text-decoration: none;
+}
+
+#home_ul li a:hover{
+   color: white;
+   background-color: #67bc45;
+}
+#home_ul li a:hover{
+   color: white;
+}
+#apart{
+   background-color: #00FE06;
+}
+#apart li a{
+   color: white;
+}
+
+#titelbanner{
+   display: flex;
+   justify-content: flex-end;
+   padding-top: 200px;
+   padding-right: 500px;
+   
+}
+   
+
+#tekstbanner{
+   display: flex;
+   justify-content: flex-end;
+   padding-right: 173px;
+   max-width: 30%;
+   float: right;
+}
+
+
+#Responsible {
+   background-image: url(../img/header.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   max-width: 100%;
+   height: 400px;
+   color: white;
+}
+   
+
+.l1 {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.rijen {
+width: 30%;
+}
+
+
+
+footer {
+   background-color: black;
+   margin-top: 30px;
+}
+
+footer .wrapper {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   color: white;
+}
+
+.left_f {
+   width: 60%;
+}
+
+.right_f {
+   width: 40%;
+   display: flex;
+}
+
+
+#nav_f a{
+   color:white;
+   padding-right: 5px;
+}
+
+#nav_f a::after{
+content: "|";
+padding-left: 5px;
+}
+
+.btn-cta{
+   height: 21px;
+   margin-top: 16px;
+}
+
+
+.lm p {
+   color: lightseagreen;
+   
+}
+.lm p::after{
+   content: "\23F5";
+}
+#rl p{
+   color: lightseagreen;
+}
+#rl p::after{
+   content: "▸ \23F5";
+}
+
+#dtr{
+   border: solid 2px lightseagreen;
+   background-color: lightsteelblue;
+}
+
+#dtr ul{
+   list-style: none;
+   
+}
+
+#dtr ul li{
+   padding-top: 5px;
+   
+}
+
+#dtr ul li a{
+   color: lightseagreen;
+   
+   
+}
+#dtr p{
+   color: lightseagreen;
+   padding-left: 38px;
+}
+
+.b h2{color: blue;}
+
+h3{
+color:darkcyan;
+}
+.active{
+   background-color: #67bc45;
+   color: white;
+}
+
+ #home_ul .active a {
+   color: white;
+}
+

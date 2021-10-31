@@ -1,0 +1,124 @@
+img {
+    max-width: 100%;
+}
+
+.wrapper {
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+ }
+ 
+
+ 
+#H_contact li {
+    color: white;
+}
+
+#H_contact{
+    background-color: black;
+}
+#H_contact ul{
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 10px;
+    padding-right: 5px;
+}
+
+#H_contact ul li {
+    list-style: none;
+    padding-left: 25px;
+}
+
+
+#navigatie ul {
+    display: flex;
+}
+
+#navigatie ul li {
+    list-style: none;
+    padding-left: 15px;
+}
+
+#navigatie a {
+    text-decoration: none;
+    color: black;
+}
+
+#logo .wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+
+#bannertekst {
+    background-image: url(../img/suv-gffe0920dd_1920.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    height: 400px;
+    padding-top: 20px;
+}
+
+#bannertekst p {
+    color: white;
+    font-size: 40px;
+    padding-top: 150px;
+    padding-left: 20px;
+}
+
+.l1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rijen {
+    max-width: 30%
+}
+
+.Merknp {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Merknp li {
+    list-style: none;
+}
+
+.gegevens {
+    display: flex;
+    justify-content: space-between;
+}
+
+.gegevens li {
+    list-style: none;
+}
+footer{
+    background-color: black;
+}
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    
+}
+
+footer li {
+    list-style: none;
+    padding-top: 5px;
+}
+.over_ons{
+    background-image: url(../img/pexels-yender-fonseca-2610305.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   max-width: 100%;
+   height: 400px;
+   color: white;
+   padding-left: 20px;
+   padding-top: 20px;
+}
+
+.over_ons p{
+    font-size: 20px;
+    max-width: 30%;
+}
