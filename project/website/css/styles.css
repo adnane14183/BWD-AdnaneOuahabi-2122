@@ -17,11 +17,13 @@ img {
 #H_contact{
     background-color: black;
 }
+
 #H_contact ul{
     display: flex;
     justify-content: flex-end;
     padding-top: 10px;
     padding-right: 5px;
+    margin: 0px auto;
 }
 
 #H_contact ul li {
@@ -42,6 +44,11 @@ img {
 #navigatie a {
     text-decoration: none;
     color: black;
+}
+
+#navigatie a:hover{
+    color: #c37369;
+    text-decoration: underline;
 }
 
 #logo .wrapper{
@@ -72,7 +79,11 @@ img {
 }
 
 .rijen {
-    max-width: 30%
+    max-width: 30%;
+}
+
+.rijen2 {
+    max-width: 50%;
 }
 
 .Merknp {
@@ -95,7 +106,7 @@ img {
 footer{
     background-color: black;
 }
-footer {
+footer .wrapper {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -121,4 +132,71 @@ footer li {
 .over_ons p{
     font-size: 20px;
     max-width: 30%;
+}
+
+#autoscout iframe{
+    height: 900px;
+    width: 100%;
+}
+
+#waarom{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#waarom ul li{
+    padding-bottom: 20px;
+}
+
+.rijenLabels{
+    display: flex;
+    justify-content: space-between;
+    max-width: 50%
+}
+
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.rijen2 img{
+padding: 0px;
+margin: 0px;
+}
+
+.waaromreden{
+    margin-top: 5%;
+    margin-right: 20%;
+}
+
+#waarom{
+    background-color: #D3D3D3;
+}
+
+button{
+    background-color: #c37369;
+    color: #FFF;
+    padding: 10px;
+}
+
+input[type=submit] {
+    background-color: #c37369;
+    color: #FFF;
+    padding: 10px 30px 10px 30px;
+    
+}
+
+#maps{
+    margin-left: 20%;
+}
+
+input{
+    background-color: #D3D3D3;
+    margin-left: 2%;
+}
+
+textarea{
+    background-color: #D3D3D3;
 }
