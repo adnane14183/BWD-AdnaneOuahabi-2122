@@ -253,6 +253,7 @@ ul{
 @media(min-width: 450px){
     #navigatie ul {
         display: flex;
+        padding-top: 1.5em;
     }
     footer .wrapper {
         display: flex;
