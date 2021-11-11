@@ -114,6 +114,7 @@ footer li {
 .over_ons p {
     font-size: 20px;
     max-width: 30%;
+    text-align: justify;
 }
 
 #autoscout iframe {
@@ -175,6 +176,7 @@ input[type=email]{
 body {
     margin: 0px;
     padding: 0px;
+    font-family: century gothic;
 }
 
 .rijen2 img {
